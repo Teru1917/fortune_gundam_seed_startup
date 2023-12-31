@@ -22,7 +22,7 @@
 
 ## 2.ログイン時のメッセージ出力設定
 2-1. /etc/profile.d/motd.shを作成  
-2-2. echo fortune /home/share/seed_print/startup.txt > /etc/profile.d/motd.sh  
+2-2. echo fortune /home/share/seed_print/startup_message.sh > /etc/profile.d/motd.sh  
 2-3. bash　で動作確認  
 
 # その他
